@@ -1,4 +1,4 @@
----
+df<-read.csv(filename, header=T)---
 title: "Introduction to dplyr for Faster Data Manipulation in R"
 output: html_document
 ---
